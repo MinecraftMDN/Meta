@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "packages": [
+    {
+      "uid": "thaumicenergistics",
+      "name": "Thaumic Energistics",
+      "sha256": "c2337786ceb5d96f1da684ec2db5a506e02a3f49ed4f820d448db622d144e876"
+    },
+    {
+      "uid": "appliedenergistics2",
+      "name": "Applied Energistics 2",
+      "sha256": "cbe9a1e102dbebceea26b3958102eb48f84a664394c275ea62727721ac8b12b8"
+    },
+    {
+      "uid": "jei",
+      "name": "Just Enough Items",
+      "sha256": "ae608e132c2da7bf0d529cda53df71f23210430e07697495b940a28dc820388d"
+    }
+  ]
+}

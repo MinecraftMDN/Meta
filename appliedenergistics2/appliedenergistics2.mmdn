@@ -1,0 +1,20 @@
+{
+    "specVersion": 0,
+    "id": "appliedenergistics2",
+    "name": "Applied Energistics 2",
+    "description": "Applied Energistics!",
+    "license": "LGPLv3",
+    "indexers": [
+        {
+            "type": "curseforge",
+            "id": "223794"
+        }
+    ],
+    "projectInfo": {
+        "discord": "https://discord.gg/GygKjjm",
+        "curseforge": "https://minecraft.curseforge.com/projects/applied-energistics-2",
+        "source": "https://github.com/AppliedEnergistics/Applied-Energistics-2",
+        "issues": "https://github.com/AppliedEnergistics/Applied-Energistics-2/issues"
+    },
+    "versionRegex": "rv\\d+-(?:alpha|beta|stable)-\\d+"
+}

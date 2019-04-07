@@ -1,0 +1,20 @@
+{
+    "specVersion": 0,
+    "id": "thaumicenergistics",
+    "name": "Thaumic Energistics",
+    "description": "Thaumic Energistics!",
+    "license": "MIT",
+    "indexers": [
+        {
+            "type": "curseforge",
+            "id": "223666"
+        }
+    ],
+    "projectInfo": {
+        "discord": "https://discord.gg/BreEZat",
+        "curseforge": "https://minecraft.curseforge.com/projects/thaumic-energistics",
+        "source": "https://github.com/Nividica/ThaumicEnergistics",
+        "issues": "https://github.com/Nividica/ThaumicEnergistics/issues"
+    },
+    "versionRegex": "(?:\\d+\\.){2,3}\\d+(?:-RV\\d+)?"
+}

@@ -1,0 +1,85 @@
+{
+  "formatVersion": 1,
+  "versions": [
+    {
+      "id": "0.8.10.10",
+      "sha256": "5656acfbebe2714562ed35653f15cc720e5387a7a1b3b687cfda2ebea1702e5b"
+    },
+    {
+      "id": "0.8.10.5",
+      "sha256": "b7200af6fff53bfd38054b561442ad5219ff5f21fa8b8e6008b949ac16d65e76"
+    },
+    {
+      "id": "0.9.0.0",
+      "sha256": "5a0928df10cee64906872a630dd9b3c26868508ea5296dac1558a0a2c4d56624"
+    },
+    {
+      "id": "0.9.1.2",
+      "sha256": "2343cb714e36829375627ae06a7fc1efdde74a495994b5d6e9aa6268d118c79c"
+    },
+    {
+      "id": "1.0.0.0",
+      "sha256": "d884d5b6fd3d1649478ff3f71431bb5a280b8c460cf98d796e4ab0da2b5ff056"
+    },
+    {
+      "id": "1.0.0.1",
+      "sha256": "c383eeed880e023e60c027e5d722bf02339321314dd4bf6b5721042f8992e555"
+    },
+    {
+      "id": "1.0.0.3",
+      "sha256": "ff8a6f5283482521cb1b8626d8f899ba34d79db4005183ec8ef3b4aaff7583bf"
+    },
+    {
+      "id": "1.0.0.4",
+      "sha256": "0df9a1aac4d13eb5b1449a807ed369a8d13de1dbc8116e7b40dd62fa42b062eb"
+    },
+    {
+      "id": "1.0.0.5-RV2",
+      "sha256": "31ce60d94463e8daaa4dfd59aa3023e8154b8c6e971cb94ecc3541086f91bcd7"
+    },
+    {
+      "id": "1.0.0.5",
+      "sha256": "de203e2a2d53b1cfa51599ec361892d5a0d1ada513d52f81c10f5832248863f7"
+    },
+    {
+      "id": "1.1.0.0-RV2",
+      "sha256": "e0f2a31f3e8912721653e9f771723a73506e9c9125802efdeae4baffb2d4c93f"
+    },
+    {
+      "id": "1.1.0.0",
+      "sha256": "d791fb0fdab3d8b26bc1bf37cdf61c9e644d851e555a9b769d1b50188fe851a5"
+    },
+    {
+      "id": "1.1.2.0-RV2",
+      "sha256": "afddb77969d73df0b4c3f59bfefc1b9ec7c20c005baf3ccbc595ef90418e5869"
+    },
+    {
+      "id": "1.1.2.0",
+      "sha256": "6adeab87ab5fabce0f7588a5f9718cb2e5c1d48eec5ba0bbf08ba7934b36cd07"
+    },
+    {
+      "id": "1.1.3.0",
+      "sha256": "7f7e7fd04c253527437b6239edd385b34532a90c85f8dc8becc8c4ac3f149a43"
+    },
+    {
+      "id": "2.0.0",
+      "sha256": "af7273d132926722b2113803cafc1d00812976a5b3a2ea091a1b7f760b92f43e"
+    },
+    {
+      "id": "2.1.0",
+      "sha256": "e810e43f54e5752c3a89f6cef9199ecb49d4d558e8abdf2364f968df30f87a91"
+    },
+    {
+      "id": "2.1.1",
+      "sha256": "5eed4e5eb201265e48dc037b5ec10e2d30cb54dc41cc6c32ca76ff1f6fa96c29"
+    },
+    {
+      "id": "2.2.0",
+      "sha256": "9fca5e739ef12addbdf9517272e8b0c55597e96acc23fbc0a22d45b58ec5fad3"
+    },
+    {
+      "id": "2.2.1",
+      "sha256": "18e425bb4ad2ba9975e1a143ba77ff0d89c17689b627f64ad991d9913a16f049"
+    }
+  ]
+}

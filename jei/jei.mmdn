@@ -1,0 +1,19 @@
+{
+    "specVersion": 0,
+    "id": "jei",
+    "name": "Just Enough Items",
+    "description": "JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.",
+    "license": "MIT",
+    "indexers": [
+        {
+            "type": "curseforge",
+            "id": "238222"
+        }
+    ],
+    "projectInfo": {
+        "curseforge": "https://minecraft.curseforge.com/projects/jei",
+        "source": "https://github.com/mezz/JustEnoughItems",
+        "issues": "https://github.com/mezz/JustEnoughItems/issues"
+    },
+    "versionRegex": "(?:\\d+\\.){2,3}\\d+(?:-RV\\d+)?"
+}
