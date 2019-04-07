@@ -1,0 +1,18 @@
+{
+  "specVersion": 0,
+  "id": "2.18.1.88",
+  "dependencies": [
+    {
+      "type": "minecraft",
+      "id": "minecraft",
+      "minVersion": "1.8.9",
+      "maxVersion": "1.8.9"
+    }
+  ],
+  "downloads": [
+    {
+      "type": "curseforge",
+      "id": "2275624"
+    }
+  ]
+}

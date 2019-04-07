@@ -4,17 +4,17 @@
     {
       "uid": "thaumicenergistics",
       "name": "Thaumic Energistics",
-      "sha256": "c2337786ceb5d96f1da684ec2db5a506e02a3f49ed4f820d448db622d144e876"
+      "sha256": "c0e567db2127ebff7efb04a53da1e472bbc1cdadaeb5044eff244332727a9ead"
     },
     {
       "uid": "appliedenergistics2",
       "name": "Applied Energistics 2",
-      "sha256": "cbe9a1e102dbebceea26b3958102eb48f84a664394c275ea62727721ac8b12b8"
+      "sha256": "f1b7a9fdaab9c9995345ed122418b0cfd5e48fcee2633798c3ce62a3ae12a4dc"
     },
     {
       "uid": "jei",
       "name": "Just Enough Items",
-      "sha256": "ae608e132c2da7bf0d529cda53df71f23210430e07697495b940a28dc820388d"
+      "sha256": "c5eb23b1944649c3cc980f24670a3dba5e83d1cadd1310b1d46cff857d7728d3"
     }
   ]
 }
