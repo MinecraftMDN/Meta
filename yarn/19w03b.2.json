@@ -1,0 +1,17 @@
+{
+  "specVersion": 0,
+  "id": "19w03b.2",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/19w03b.2/yarn-19w03b.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "cccaee685c9c86b610642d3c0e566825da895b1b",
+    "md5": "0f10bd12452139e78fbad19a98e33d4f"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "libraries": [
+    {
+      "id": "com.google.code.findbugs:jsr305:3.0.2",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm-analysis:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm-commons:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm-tree:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm-util:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "net.fabricmc:sponge-mixin:0.7.11.14",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "net.fabricmc:tiny-mappings-parser:0.1.0.4",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "net.fabricmc:tiny-remapper:0.1.0.22",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "net.minecraft:launchwrapper:1.12",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "net.sf.jopt-simple:jopt-simple:5.0.3",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    }
+  ],
+  "specVersion": 0,
+  "id": "0.3.3.97",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.3.3.97/fabric-loader-0.3.3.97.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "fdb26ed546318064eedcabf141e5518b164e3445",
+    "md5": "72e75546f94c2edae43bd0d6d7134ea2"
+  }
+}

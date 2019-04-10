@@ -1,0 +1,17 @@
+{
+  "specVersion": 0,
+  "id": "18w49a.13",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/18w49a.13/yarn-18w49a.13.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "26d89fa5f78f5d155144d594c664204aa5d15b8c",
+    "md5": "586f539565dfbc74affe0e626b1de0fc"
+  }
+}

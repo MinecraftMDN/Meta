@@ -1,0 +1,18 @@
+{
+  "libraries": [],
+  "specVersion": 0,
+  "id": "0.4.0+build.113",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.4.0%2Bbuild.113/fabric-loader-0.4.0%2Bbuild.113.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "761eb6972c08fc9ebe4a2abe147ece7d654a4bf4",
+    "md5": "81ce693836645d547e6c33a466c0bd14"
+  }
+}

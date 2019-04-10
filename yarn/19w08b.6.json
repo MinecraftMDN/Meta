@@ -1,0 +1,17 @@
+{
+  "specVersion": 0,
+  "id": "19w08b.6",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/19w08b.6/yarn-19w08b.6.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "ffc493a863c858d6ba50469e598e5e25a8f961a5",
+    "md5": "ecfe33618e9cd91e58481c9d7138ff14"
+  }
+}

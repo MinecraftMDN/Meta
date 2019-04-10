@@ -1,0 +1,17 @@
+{
+  "specVersion": 0,
+  "id": "19w14a.6",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/19w14a.6/yarn-19w14a.6.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "3223ac3c8817809080236743881465e51c788d99",
+    "md5": "3c7060c4e90b92cc32533ca865f324ef"
+  }
+}

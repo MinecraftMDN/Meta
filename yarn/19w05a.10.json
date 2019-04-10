@@ -1,0 +1,17 @@
+{
+  "specVersion": 0,
+  "id": "19w05a.10",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/19w05a.10/yarn-19w05a.10.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "091c2252ac5007dccefa52724b7e6c451c9234e3",
+    "md5": "92e3b9d25dfda0d4a396a569b28d6535"
+  }
+}

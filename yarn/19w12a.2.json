@@ -1,0 +1,17 @@
+{
+  "specVersion": 0,
+  "id": "19w12a.2",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/19w12a.2/yarn-19w12a.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "4d0f7482cf467f6442a843d88832d7d5c4432ffc",
+    "md5": "47ce0b8151875e4b88b2508ab32b2435"
+  }
+}

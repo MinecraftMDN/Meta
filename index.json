@@ -2,19 +2,24 @@
   "formatVersion": 1,
   "packages": [
     {
-      "uid": "thaumicenergistics",
-      "name": "Thaumic Energistics",
+      "id": "thaumicenergistics",
       "sha256": "c0e567db2127ebff7efb04a53da1e472bbc1cdadaeb5044eff244332727a9ead"
     },
     {
-      "uid": "appliedenergistics2",
-      "name": "Applied Energistics 2",
-      "sha256": "f1b7a9fdaab9c9995345ed122418b0cfd5e48fcee2633798c3ce62a3ae12a4dc"
+      "id": "jei",
+      "sha256": "c5eb23b1944649c3cc980f24670a3dba5e83d1cadd1310b1d46cff857d7728d3"
     },
     {
-      "uid": "jei",
-      "name": "Just Enough Items",
-      "sha256": "c5eb23b1944649c3cc980f24670a3dba5e83d1cadd1310b1d46cff857d7728d3"
+      "id": "fabric",
+      "sha256": "56982cfbb8b3e64b6194436720836e7220eead42b96e3d842efdae1228f6d34e"
+    },
+    {
+      "id": "fabricloader",
+      "sha256": "5f13350729bc154a5462e1998e99c74ea13719f6deebb1d10c71b6768d95fe0d"
+    },
+    {
+      "id": "yarn",
+      "sha256": "c637a14e454c570dc8d0747d525725275c1b49ba8a6cf4c5b7e856cb3af69d2c"
     }
   ]
 }

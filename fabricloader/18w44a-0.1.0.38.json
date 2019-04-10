@@ -1,0 +1,85 @@
+{
+  "libraries": [
+    {
+      "id": "net.sf.jopt-simple:jopt-simple:5.0.3",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "com.mojang:authlib:1.5.25",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "com.github.zafarkhaja:java-semver:0.9.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "com.google.code.findbugs:jsr305:3.0.2",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm-commons:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm-tree:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm-util:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.spongepowered:mixin:0.7.11-SNAPSHOT",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "net.fabricmc:tiny-remapper:+",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "net.minecraft:launchwrapper:1.12",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    }
+  ],
+  "specVersion": 0,
+  "id": "18w44a-0.1.0.38",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/18w44a-0.1.0.38/fabric-loader-18w44a-0.1.0.38.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "7e4bda6a870aad7fab0f105d0fc52064f16c6985",
+    "md5": "884281e2018c0f3483e8d2eb7480b332"
+  }
+}
