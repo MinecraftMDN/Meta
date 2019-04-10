@@ -63,23 +63,23 @@
     },
     {
       "id": "2.0.0",
-      "sha256": "af7273d132926722b2113803cafc1d00812976a5b3a2ea091a1b7f760b92f43e"
+      "sha256": "1161e645ac615eca898a034f04d7676189020bc44a37849a47adb7afe7be8ae1"
     },
     {
       "id": "2.1.0",
-      "sha256": "e810e43f54e5752c3a89f6cef9199ecb49d4d558e8abdf2364f968df30f87a91"
-    },
-    {
-      "id": "2.1.1",
-      "sha256": "5eed4e5eb201265e48dc037b5ec10e2d30cb54dc41cc6c32ca76ff1f6fa96c29"
+      "sha256": "9d6bf6696f0dc12227acb1160cd20daab7def3bed9d18606972658385445fd84"
     },
     {
       "id": "2.2.0",
-      "sha256": "9fca5e739ef12addbdf9517272e8b0c55597e96acc23fbc0a22d45b58ec5fad3"
+      "sha256": "a1c46d47501f236d1ca88d6c9e3d47fd76d7c5e9d9f570e3e343d95cf41b6cf8"
+    },
+    {
+      "id": "2.1.1",
+      "sha256": "2155f8d2fed02fcfedfdb03e19c14ca8efa7bef436121971cc250d26e6f0236e"
     },
     {
       "id": "2.2.1",
-      "sha256": "18e425bb4ad2ba9975e1a143ba77ff0d89c17689b627f64ad991d9913a16f049"
+      "sha256": "bc69b90c936a91166a39cd8fbc7b8b5517b970c015d1c98c832aff3fcd114566"
     }
   ]
 }
