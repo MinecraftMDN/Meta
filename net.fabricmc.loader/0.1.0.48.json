@@ -1,0 +1,31 @@
+{
+  "formatVersion": 0,
+  "id": "0.1.0.48",
+  "releaseType": "beta",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "yarn",
+      "version": "*"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:fabric-loader:0.1.0.48"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.1.0.48/fabric-loader-0.1.0.48.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "b0d45aa52ce1a169948757d22b8a1e61b556d872",
+    "md5": "634f157ccfe5a766bc7afe0a28d0eb0a"
+  },
+  "size": 76991,
+  "filename": "",
+  "releaseTime": "2018-11-30T13:54:27Z"
+}

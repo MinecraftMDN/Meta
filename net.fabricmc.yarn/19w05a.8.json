@@ -1,0 +1,31 @@
+{
+  "formatVersion": 0,
+  "id": "19w05a.8",
+  "releaseType": "beta",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "minecraft",
+      "version": "19w05a"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:yarn:19w05a.8"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/19w05a.8/yarn-19w05a.8.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "e788c84a321c07ac4175a08a64a9915d6dd7bd51",
+    "md5": "54839f97a3e6640b2bd2cbe0815abc1f"
+  },
+  "size": 441239,
+  "filename": "",
+  "releaseTime": "2019-02-05T10:50:14Z"
+}

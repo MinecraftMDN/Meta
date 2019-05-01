@@ -1,20 +1,28 @@
 {
-    "specVersion": 0,
-    "id": "thaumicenergistics",
-    "name": "Thaumic Energistics",
-    "description": "Thaumic Energistics!",
-    "license": "MIT",
-    "indexers": [
-        {
-            "type": "curseforge",
-            "id": "223666"
-        }
-    ],
-    "projectInfo": {
-        "discord": "https://discord.gg/BreEZat",
-        "curseforge": "https://minecraft.curseforge.com/projects/thaumic-energistics",
-        "source": "https://github.com/Nividica/ThaumicEnergistics",
-        "issues": "https://github.com/Nividica/ThaumicEnergistics/issues"
+  "name": "Thaumic Energistics",
+  "description": "Because the digital age could use some magic!",
+  "license": "MIT",
+  "id": "thaumicenergistics",
+  "authors": [
+    "Nividica",
+    "BrockWS"
+  ],
+  "projectLinks": [
+    {
+      "type": "discord",
+      "url": "https://discord.gg/BreEZat"
     },
-    "versionRegex": "(?:\\d+\\.){2,3}\\d+(?:-RV\\d+)?"
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/thaumic-energistics"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/Nividica/ThaumicEnergistics"
+    },
+    {
+      "type": "issues",
+      "url": "https://github.com/Nividica/ThaumicEnergistics/issues"
+    }
+  ]
 }
