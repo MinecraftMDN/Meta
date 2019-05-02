@@ -3,19 +3,19 @@
   "packages": [
     {
       "id": "thaumicenergistics",
-      "sha256": "9e99bbba89388ba27ffddb9164d1e37470474faab58369f351d371e5d26cbf0a"
+      "sha256": "dfe61acf3a168d5ae11ca09a0eff36ef3882a18ca42f3699c7e8cc58df3c4774"
     },
     {
       "id": "net.fabricmc.yarn",
-      "sha256": "ab5461ff4876616f10e97c234aa53bbb8222de4d971586829c3f8bcff85e37b1"
+      "sha256": "bf3d8d61335351ecf3a1218b45ece4f9d32cb4b000fc333401149bdf3ef05d8f"
     },
     {
       "id": "net.fabricmc.loader",
-      "sha256": "d0327b2f83df811badcbfe8e35b48d357071f581d71c6fa4eff5dbd363f994ed"
+      "sha256": "bc7218a5740f479cb4d1921bd50d6c7e5ed133ff7f99b87a173ec4322e9953b9"
     },
     {
       "id": "net.fabricmc.fabric",
-      "sha256": "4f65f22f5862469f9fd23ddb68f98fc6482c9dd7325a411d56bfdfd1f8775659"
+      "sha256": "5551e4e45e434582fce48e5a297e974c2f522acbc08708f8195ff29a70c202b7"
     }
   ]
 }

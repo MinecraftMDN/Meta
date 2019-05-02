@@ -3,23 +3,23 @@
   "versions": [
     {
       "id": "2.0.0",
-      "sha256": "a7d9999df92fbb70f4df60c2c7aaab25b1d63a7faf4335a72ab23d901ac7658a"
+      "sha256": "c6ee80e89598d5c4db4671e710ace8046952fbc5a46652bc3e96597cef377a7e"
     },
     {
       "id": "2.1.0",
-      "sha256": "5c9666dc9c186a101df5154c66708f0778d74d3cf613d8cae9d73ab4e67dc794"
+      "sha256": "cbecb282a36a74ca1acf56d8dcd81e9c806506eac38df7163d5d0b2fe7270c29"
     },
     {
       "id": "2.2.0",
-      "sha256": "c10d307c042677e3efe24580b0286298588c3d6224b410df2dd457e4d3386f38"
+      "sha256": "1b2007a7e469453032c5fdde114981d87df3b62ebab165ba25260a4360607c89"
     },
     {
       "id": "2.1.1",
-      "sha256": "2c11881798fcb1571c80b2ab79d5e60b4ff413d8e5aeebe9b3416b885f46a980"
+      "sha256": "2f4a06c8f6729dc38fe38afae7f8c469435137250f0ab21ccd6905fd314e4caa"
     },
     {
       "id": "2.2.1",
-      "sha256": "0b94013fa7e8f9ced8c61491944874a3d70a557ddb777939a78f91250dc32f65"
+      "sha256": "6b8cc2c47cf12a16cb475d2b00d70f3a605df6325c5adae0aa62745793ffd22f"
     }
   ]
 }
