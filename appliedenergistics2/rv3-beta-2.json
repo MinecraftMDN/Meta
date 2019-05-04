@@ -1,0 +1,1 @@
+{"formatVersion":0,"id":"rv3-beta-2","releaseType":"release","relationships":[{"type":"required","id":"minecraft","version":"1.7.10"}],"artifacts":[{"type":"curseforge","id":"2272472"},{"type":"direct","id":"https://files.forgecdn.net/files/2272/472/appliedenergistics2-rv3-beta-2.jar"}],"size":0}
