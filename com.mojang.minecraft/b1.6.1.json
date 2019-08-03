@@ -1,0 +1,1 @@
+{"formatVersion":0,"id":"b1.6.1","releaseType":"old_beta","relationships":[{"type":"required","id":"org.lwjgl","version":"2.9.0"}],"artifacts":[{"type":"direct","id":"https://launcher.mojang.com/v1/objects/63a66d6d145696296bdaaeaba0a42f738b87a362/client.jar"}],"size":0,"releaseTime":"2011-05-25T22:00:01+00:00"}
