@@ -1,1 +1,1 @@
-{"formatVersion":0,"id":"6.1.0","releaseType":"","artifacts":[{"type":"direct","id":"https://files.forgecdn.net/files/2545/467/chickens-6.1.0.jar","side":"universal"}],"client":{"hashes":{},"size":0},"server":{"hashes":{},"size":0},"hashes":{"sha256":"a640a659f4333d112ee1e677518e71535b5a4ce0e246708e29f489aea10eb947"},"size":0}
+{"formatVersion":0,"id":"6.1.0","artifacts":[{"type":"direct","id":"https://files.forgecdn.net/files/2545/467/chickens-6.1.0.jar","side":"universal"}],"hashes":{"sha256":"a640a659f4333d112ee1e677518e71535b5a4ce0e246708e29f489aea10eb947"},"size":0}
