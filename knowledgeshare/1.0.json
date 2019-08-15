@@ -1,1 +1,1 @@
-{"formatVersion":0,"id":"1.0","releaseType":"","artifacts":[{"type":"direct","id":"https://files.forgecdn.net/files/2696/717/knowledgeshare-1.0.jar"}],"hashes":{"sha256":"2f162b54eb5f130cb9923b71f313eb2efbaaead0249326d43337dd88f39d52af"},"size":0}
+{"formatVersion":0,"id":"1.0","releaseType":"","artifacts":[{"type":"direct","id":"https://files.forgecdn.net/files/2696/717/knowledgeshare-1.0.jar","side":"universal"}],"client":{"hashes":{},"size":0},"server":{"hashes":{},"size":0},"hashes":{"sha256":"2f162b54eb5f130cb9923b71f313eb2efbaaead0249326d43337dd88f39d52af"},"size":0}

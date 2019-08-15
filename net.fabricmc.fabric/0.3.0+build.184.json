@@ -1,1 +1,1 @@
-{"formatVersion":0,"id":"0.3.0+build.184","releaseType":"release","artifacts":[{"type":"curseforge","id":"2724084"},{"type":"direct","id":"https://edge.forgecdn.net/files/2724/84/fabric-api-0.3.0+build.184.jar"}],"size":0}
+{"formatVersion":0,"id":"0.3.0+build.184","releaseType":"release","artifacts":[{"type":"curseforge","id":"2724084","side":"universal"},{"type":"direct","id":"https://edge.forgecdn.net/files/2724/84/fabric-api-0.3.0+build.184.jar","side":"universal"}],"client":{"hashes":{},"size":0},"server":{"hashes":{},"size":0},"size":0}
